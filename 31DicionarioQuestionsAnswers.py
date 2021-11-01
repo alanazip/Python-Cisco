@@ -39,5 +39,5 @@ for pk, pv in perguntas.items():
 qtdperguntas = len(perguntas)
 porcentagemAcerto = respostasCertas / qtdperguntas * 100
 
-print(f'voce acertou {respostasCertas} perguntas')
+print(f'você acertou {respostasCertas} perguntas')
 print(f'sua porcentagem de acerto foi de {porcentagemAcerto} %')
